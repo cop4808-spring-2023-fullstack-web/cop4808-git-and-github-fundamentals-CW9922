@@ -109,3 +109,40 @@ button {
     background-color: rgb(123, 189, 255);
 }
 
+
+
+
+
+
+
+.Test1 {
+    background-color: rgb(70, 14, 201);
+}
+
+.Test1:active {
+    background-color: rgb(109, 51, 245);
+}
+
+.Test2 {
+    background-color: rgb(70, 14, 201);
+}
+
+.Test2:active {
+    background-color: rgb(109, 51, 245);
+}
+
+.Test3 {
+    background-color: rgb(70, 14, 201);
+}
+
+.Test3:active {
+    background-color: rgb(109, 51, 245);
+}
+
+.Test4 {
+    background-color: rgb(70, 14, 201);
+}
+
+.Test4:active {
+    background-color: rgb(109, 51, 245);
+}
